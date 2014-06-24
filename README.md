@@ -3,4 +3,4 @@
 3. geolocation/google map integration
 4. Friendships/following friens
 5. Adding entries/descriptions/yelp api
-6. 
+6. Responsive
