@@ -5,4 +5,4 @@
 5. Adding entries/descriptions/yelp api
 6. Responsive
 7. Custom/non Heroku URL
-8. has many/many to many associations -- user  recommendations
+8. has_many/many_to_many associations -- user  recommendations
