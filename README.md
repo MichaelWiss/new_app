@@ -6,3 +6,12 @@
 6. Responsive
 7. Custom/non Heroku URL
 8. has_many/many_to_many associations -- user  recommendations
+
+A. 9First Iteration
+Display map of current location
+searchbox
+Yelp api
+B
+User Authentication
+bcrypt/or Facebook
+Instagram
