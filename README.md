@@ -7,11 +7,12 @@
 7. Custom/non Heroku URL
 8. has_many/many_to_many associations -- user  recommendations
 
-A. 9First Iteration
-Display map of current location
-searchbox
-Yelp api
-B
-User Authentication
-bcrypt/or Facebook
-Instagram
+A. First Iteration
+   1. Display map of current location
+   2. searchbox
+   3. Yelp api
+
+B. Second Iteration
+   1. User Authentication
+   2. bcrypt/or Facebook
+   3. Instagram
