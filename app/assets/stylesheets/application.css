@@ -11,3 +11,6 @@
  *= require_self
  *= require_tree .
  */
+ #map{height:1000px;}
+ #mapcanvas{height:1000px;}
+
