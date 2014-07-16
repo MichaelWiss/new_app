@@ -12,7 +12,7 @@ A. First Iteration
    2. store long and lat in jquery cookie/ read cookie and store in ruby hash
    3. searchbox
    4. Yelp api
-
+   5. style it: foundation
 B. Second Iteration
    1. User Authentication
    2. bcrypt/or Facebook
