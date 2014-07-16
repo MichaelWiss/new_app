@@ -9,10 +9,9 @@
 
 A. First Iteration
    1. Display map of current location
-     a. store long and lat in jquery cookie
-     b. read cookie and store in ruby hash
-   2. searchbox
-   3. Yelp api
+   2. store long and lat in jquery cookie/ read cookie and store in ruby hash
+   3. searchbox
+   4. Yelp api
 
 B. Second Iteration
    1. User Authentication
