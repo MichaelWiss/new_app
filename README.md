@@ -10,9 +10,13 @@
 A. First Iteration
    1. Display map of current location
    2. store long and lat in jquery cookie/ read cookie and store in ActiveRecord
+   3. use location coordinates in yelp api
    3. searchbox
    4. Yelp api
    5. style it: foundation
+   
+
+
 B. Second Iteration
    1. User Authentication
    2. bcrypt/or Facebook
