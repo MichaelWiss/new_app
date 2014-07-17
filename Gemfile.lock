@@ -46,6 +46,9 @@ GEM
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.0.2)
+    foundation-rails (5.3.1.0)
+      railties (>= 3.1.0)
+      sass (>= 3.2.0)
     geocoder (1.2.2)
     hike (1.2.3)
     i18n (0.6.9)
@@ -69,6 +72,8 @@ GEM
     polyglot (0.3.4)
     protected_attributes (1.0.8)
       activemodel (>= 4.0.1, < 5.0)
+    quiet_assets (1.0.3)
+      railties (>= 3.1, < 5.0)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
@@ -152,11 +157,13 @@ DEPENDENCIES
   bcrypt-ruby (~> 3.1.2)
   capybara (~> 2.2.0)
   coffee-rails (~> 4.0.0)
+  foundation-rails (~> 5.3.1.0)
   geocoder
   jbuilder (~> 1.2)
   jquery-rails
   pg (= 0.15.1)
   protected_attributes
+  quiet_assets (~> 1.0.2)
   rails (= 4.0.2)
   rails_12factor (= 0.0.2)
   rspec-rails (~> 3.0.0)
