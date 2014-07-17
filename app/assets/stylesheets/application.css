@@ -11,7 +11,7 @@
  *= require_self
  *= require_tree .
  */
- #map{width: 1000px; height: 1000px;
+ #map{width:1000px; height:1000px;
  margin: 0 auto;}
  #mapcanvas{height:1000px;}
  #status{margin: 0 auto;
