@@ -9,7 +9,7 @@
 
 A. First Iteration
    1. Display map of current location
-   2. store long and lat in jquery cookie/ read cookie and store in ruby hash
+   2. store long and lat in jquery cookie/ read cookie and store in ActiveRecord
    3. searchbox
    4. Yelp api
    5. style it: foundation
