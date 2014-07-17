@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title><%= content_for?(:title) ? yield(:title) : "foundation-rails" %></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <%= stylesheet_link_tag    "application" %>
     <%= javascript_include_tag "vendor/modernizr" %>
@@ -14,6 +15,7 @@
   <body>
 
     <%= yield %>
+
     <%= javascript_include_tag "application" %>
   </body>
 </html>
