@@ -21,3 +21,7 @@ B. Second Iteration
    1. User Authentication
    2. bcrypt/or Facebook
    3. Instagram
+    
+   
+
+ install and active Hey Girl
